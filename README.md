@@ -26,13 +26,13 @@ Tools for converting modern digital assets into formats suitable for PlayStation
 
 Tools for converting and processing images and textures.
 
-- [ps2-tim2-tool](https://github.com/PS2HomeDeveloper/ps2-tim2-tool) - Convert and manage TIM2 textures for PlayStation 2.
+- [PS2 Tim2 Tool](https://github.com/PS2HomeDeveloper/ps2-tim2-tool) - Convert and manage TIM2 textures for PlayStation 2.
 
 ### 3D Models
 
 Tools for converting and processing 3D models.
 
-- [ps2-model-tool](https://github.com/PS2HomeDeveloper/ps2-model-tool) - Convert 3D models into PlayStation 2 runtime resources.
+- [PS2 Model Tool](https://github.com/PS2HomeDeveloper/ps2-model-tool) - Convert 3D models into PlayStation 2 runtime resources.
 
 ### Audio
 
