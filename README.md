@@ -32,7 +32,7 @@ Tools for converting and processing images and textures.
 
 Tools for converting and processing 3D models.
 
-<!-- Add tools here -->
+- [ps2-model-tool](https://github.com/PS2HomeDeveloper/ps2-model-tool) - Convert 3D models into PlayStation 2 runtime resources.
 
 ### Audio
 
